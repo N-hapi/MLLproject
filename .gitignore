@@ -1,0 +1,5 @@
+# Ignore the results directory
+results/
+
+# Ignore the .venv directory
+.venv/
